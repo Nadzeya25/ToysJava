@@ -4,28 +4,103 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec46dd3a-b041-4032-8aa5-d8c570526fb9" name="Changes" comment="" />
+    <list default="true" id="ec46dd3a-b041-4032-8aa5-d8c570526fb9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WinLine.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/toystore/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/toystore/IdGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/toystore/MethodAddFileWinToy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/toystore/TEST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/toystore/Toy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/toystore/ToyStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/toystore/changecount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/toystore/changeprobability.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/toystore/rafflePrizes.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2NxCVIx2Mj3mU4WwVY0AcqmHhbu" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/java/Seminar1&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.ToyStore">
+    <configuration name="Date" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="toystore.Date" />
+      <module name="Toys1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="toystore.MethodAddFileWinToy" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TEST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="toystore.TEST" />
+      <module name="Toys1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="toystore.MethodAddFileWinToy" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToyStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="toystore.ToyStore" />
+      <module name="Toys1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="toystore.MethodAddFileWinToy" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ToyStore" />
+        <item itemvalue="Application.TEST" />
+        <item itemvalue="Application.Date" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,5 +111,8 @@
       <updated>1680596370368</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
